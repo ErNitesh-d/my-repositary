@@ -1,5 +1,5 @@
 from tkinter import *
-from pandas import *
+
 def calculate():
     Python_marks1 = int(marks_entry1.get())
     Android_marks2 = int(marks_entry2.get())
